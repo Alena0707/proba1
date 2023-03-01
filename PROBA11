@@ -1,0 +1,12 @@
+#INCLUDE <STDIO.H>
+INT MAIN()
+{
+INT X,Y;
+
+SCANF("%F",&Y)
+
+Y=POW(x,2)+3;
+printf("otvet %f\n",y);
+
+return (0);
+}
